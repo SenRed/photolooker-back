@@ -1,0 +1,23 @@
+server:
+  address: 0.0.0.0
+imageStore:
+  privateUserKey: "TODO"
+logging:
+  level:
+    root: ERROR
+    org.springframework.web: DEBUG
+
+sirv:
+  clientId: TODO
+  clientSecret: TODO
+
+spring:
+  servlet:
+    multipart:
+      max-file-size: 100MB
+      max-request-size: 100MB
+  data:
+    redis:
+      host: TODO
+      port: 13955
+      password: TODO
