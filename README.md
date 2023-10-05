@@ -52,7 +52,3 @@ We welcome contributions from the community. If you find any issues or have idea
 Photolooker is continuously evolving. Stay tuned for updates and enhancements. An upcoming article will provide an in-depth overview of the project and its features.
 
 Thank you for being a part of Photolooker!
-
----
-
-Feel free to modify this README to fit your project's specific details and requirements. If you need any further assistance or have additional information you'd like to include, please let me know!
